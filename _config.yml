@@ -22,8 +22,8 @@ color:
     - '#6a6970'
     - '#adabab'
     - '#474a4d'
-  brandStrength: 0.8353360637556762
-  lightness: 0.038199970265850425
+  brandStrength: 0.5
+  lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0.7580924215726554
+  rhythmicContrast: 0.5
 purpose: []
