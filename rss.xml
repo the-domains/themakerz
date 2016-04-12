@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[themakerz]]></title>
-        <description><![CDATA[themakerz]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The Makerz Production Team]]></title>
+        <description><![CDATA[The Makerz Production Team]]></description>
+        <link>https://thegrid.ai/themakerz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 18:40:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Apr 2016 19:00:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/themakerz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/daec93f4-da22-45e4-8a57-8002a31319b2.png">]]></description>
+            <link>https://thegrid.ai/themakerz/great-working-with-adrien-and-josh-of-the-group-jrjr/index.html</link>
+            <guid isPermaLink="false">fade3878-ef04-4bc3-be92-5888cd511c45</guid>
+            <pubDate>Tue, 12 Apr 2016 19:00:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfafb069-a850-41e3-b2ae-815e9e6b3dce.png">]]></description>
-            <link>undefined5ac9b41a-b25a-4a04-801f-7776d9aed0c8/index.html</link>
+            <link>https://thegrid.ai/themakerz/5ac9b41a-b25a-4a04-801f-7776d9aed0c8/index.html</link>
             <guid isPermaLink="false">5ac9b41a-b25a-4a04-801f-7776d9aed0c8</guid>
             <pubDate>Tue, 12 Apr 2016 18:40:38 GMT</pubDate>
         </item>
